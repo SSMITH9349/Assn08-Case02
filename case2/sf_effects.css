@@ -27,7 +27,7 @@ body> header nav.tabs{
    background-size: cover;
 
 }
-body#toplinks > li{
+body> header nav.tabs li{
    transform: perspective(50px) rotateY(20deg);
 }
 
